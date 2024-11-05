@@ -1,0 +1,23 @@
+﻿Сборка начата 04.11.2024 23:57:00.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_06\Lab06\Lab06\Lab06.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "Debug\Lab06.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\Lab06.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Lab06.cpp
+         Lab06.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_06\Lab06\Debug\Lab06.exe" /INCREMENTAL /ILK:"Debug\Lab06.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_06\Lab06\Debug\Lab06.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_06\Lab06\Debug\Lab06.lib" /MACHINE:X86 Debug\Lab06.obj
+         Lab06.vcxproj -> C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_06\Lab06\Debug\Lab06.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab06.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab06.tlog\Lab06.lastbuildstate".
+     1>Сборка проекта "C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_06\Lab06\Lab06\Lab06.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.12

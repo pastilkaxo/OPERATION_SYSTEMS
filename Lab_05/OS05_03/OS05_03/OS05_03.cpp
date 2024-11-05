@@ -177,8 +177,6 @@ void Create_TA_Thread(int prty1, int prty2) {
 	CloseHandle(t1Child); //  закрывает дескрпиторы обьекта
 	CloseHandle(t2Child);
 
-
-
 }
 
 void ShowResult(int par1, int par2, int par3,int par4) {
@@ -211,7 +209,7 @@ int main(int argc, char* argv[]) {
 	SetConsoleOutputCP(1251);
 
 	//ShowResult(255,3,3,3);
-	//ShowResult(255,3,1,5);
+	ShowResult(255,3,1,5);
 	//ShowResult(1,3,1,5);
 
 	return 0;

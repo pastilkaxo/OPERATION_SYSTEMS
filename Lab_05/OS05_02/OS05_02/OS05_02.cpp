@@ -136,8 +136,8 @@ int main(int argc,char* argv[]) {
 		SetConsoleCP(1251);
 		SetConsoleOutputCP(1251);
 		
-		ShowResult("255","3","3");
-		//ShowResult("255", "2", "5");
+		ShowResult("65535","3","3");
+		//ShowResult("65535", "2", "5");
 		//ShowResult("1", "2", "5");
 
 		return 0;
