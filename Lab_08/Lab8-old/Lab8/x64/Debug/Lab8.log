@@ -1,0 +1,19 @@
+﻿Сборка начата 18.11.2024 18:36:30.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\Lab8\Lab8\Lab8.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+         Создание каталога "C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\Lab8\x64\Debug\".
+         Создание каталога "x64\Debug\Lab8.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\Lab8.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\Lab8.tlog\unsuccessfulbuild".
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Lab8.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Lab8.tlog\Lab8.lastbuildstate".
+     1>Сборка проекта "C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\Lab8\Lab8\Lab8.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.12

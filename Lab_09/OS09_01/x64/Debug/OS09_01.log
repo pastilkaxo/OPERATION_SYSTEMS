@@ -1,0 +1,63 @@
+﻿Сборка начата 25.11.2024 16:59:48.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_09\OS09_01\OS09_01.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "x64\Debug\OS09_01.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\OS09_01.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt OS09_01.cpp
+         OS09_01.cpp
+     1>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(4537,18): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+         (компиляция исходного файла "OS09_01.cpp")
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(4537,18):
+         контекст создания экземпляра шаблона (сначала самый старый)
+         	C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_09\OS09_01\OS09_01.cpp(12,20):
+         	выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+                     _Alloc=std::allocator<char>
+                 ]
+         		C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_09\OS09_01\OS09_01.cpp(12,20):
+         		см. первую ссылку на "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string" в "getFileName"
+         	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2600,17):
+         	выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)"
+                 with
+                 [
+                     _Size_type=unsigned __int64,
+                     _Iter=wchar_t *,
+                     _Sent=wchar_t *,
+                     _Size=unsigned __int64
+                 ]
+         	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2756,18):
+         	выполняется компиляция ссылки на экземпляр шаблон функции "_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)"
+                 with
+                 [
+                     _OutIt=char *,
+                     _Size=unsigned __int64,
+                     _InIt=wchar_t *,
+                     _SizeTy=unsigned __int64
+                 ]
+         
+     1>C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_09\OS09_01\OS09_01.cpp(92,1): warning C4715: printFileTxt: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_09\x64\Debug\OS09_01.exe" /INCREMENTAL /ILK:"x64\Debug\OS09_01.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_09\x64\Debug\OS09_01.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_09\x64\Debug\OS09_01.lib" /MACHINE:X64 x64\Debug\OS09_01.obj
+         OS09_01.vcxproj -> C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_09\x64\Debug\OS09_01.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\OS09_01.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\OS09_01.tlog\OS09_01.lastbuildstate".
+     1>Сборка проекта "C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_09\OS09_01\OS09_01.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_09\OS09_01\OS09_01.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(4537,18): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+         C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_09\OS09_01\OS09_01.cpp(92,1): warning C4715: printFileTxt: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:00.91

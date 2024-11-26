@@ -1,0 +1,15 @@
+C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\OS08_02\OS08_02_2\bin\Debug\net8.0\OS08_02_2.exe
+C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\OS08_02\OS08_02_2\bin\Debug\net8.0\OS08_02_2.deps.json
+C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\OS08_02\OS08_02_2\bin\Debug\net8.0\OS08_02_2.runtimeconfig.json
+C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\OS08_02\OS08_02_2\bin\Debug\net8.0\OS08_02_2.dll
+C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\OS08_02\OS08_02_2\bin\Debug\net8.0\OS08_02_2.pdb
+C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\OS08_02\OS08_02_2\obj\Debug\net8.0\OS08_02_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\OS08_02\OS08_02_2\obj\Debug\net8.0\OS08_02_2.AssemblyInfoInputs.cache
+C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\OS08_02\OS08_02_2\obj\Debug\net8.0\OS08_02_2.AssemblyInfo.cs
+C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\OS08_02\OS08_02_2\obj\Debug\net8.0\OS08_02_2.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\OS08_02\OS08_02_2\obj\Debug\net8.0\OS08_02_2.sourcelink.json
+C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\OS08_02\OS08_02_2\obj\Debug\net8.0\OS08_02_2.dll
+C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\OS08_02\OS08_02_2\obj\Debug\net8.0\refint\OS08_02_2.dll
+C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\OS08_02\OS08_02_2\obj\Debug\net8.0\OS08_02_2.pdb
+C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\OS08_02\OS08_02_2\obj\Debug\net8.0\OS08_02_2.genruntimeconfig.cache
+C:\Users\Влад\Desktop\Лемешевский_ОС_ИСиТ_3_2\Lab_08\OS08_02\OS08_02_2\obj\Debug\net8.0\ref\OS08_02_2.dll
